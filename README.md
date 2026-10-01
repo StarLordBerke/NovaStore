@@ -29,7 +29,8 @@ Sistem, `NovaStoreDB` adında bir ana veri tabanı üzerinde inşa edilmiştir. 
 
 ## 🗺️ İlişkisel Şema (Database Diagram)
 
-![NovaStore ER Diagram](Berke_Mert_Ozturk_NovaStore_Proje.png)
+<a href=""><img align="center" src="https://github.com/StarLordBerke/NovaStore/blob/main/NovaStore/Berke_Mert_Ozturk_NovaStore_Proje.png" alt="diyagram" width="1200"/></a>
+
 *(Tablolar arası bağlar ve yapılar yukarıdaki diyagramda belirtilmiştir.)*
 
 ## 🚀 Kurulum ve Çalıştırma
